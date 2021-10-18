@@ -1,4 +1,7 @@
-# paymentgateway
-The Corona Care Foundation Donation Website comprising of Payment Gateway Integration for Donating specific amount.  
--Front-end:CSS,Html.  
--Back-end:Payment Gateway Integrated involving Message Digest technology.
+# PaymentGateway
+## TASK : ADDING PAYMENT GATEWAY TO A WEBSITE
+- Frontend : Html,Css
+- Backend : Payment Gateway Integrated involving Message Digest technology.
+
+### Website Link
+https://parask31.github.io/paymentgateway/
